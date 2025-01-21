@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-20 0 320 170">
+  <!-- 暖かい雰囲気を表現する背景 -->
+  <rect x="-20" width="320" height="170" fill="#ffcca5" opacity="0.4"/>
+  
+  <!-- 左側の赤い球体 -->
+  <circle cx="15" cy="81" r="13.5" fill="#ff6666"/>
+  
+  <!-- シャーレの底面（楕円） -->
+  <ellipse cx="150" cy="90" rx="108" ry="54" 
+    fill="#f0f0f0" stroke="#999" stroke-width="2"/>
+  
+  <!-- シャーレの側面 -->
+  <path d="M42 90 A108 54 0 0 1 258 90 L258 72 A108 54 0 0 0 42 72 Z" 
+    fill="#e0e0e0" stroke="#999" stroke-width="2"/>
+  
+  <!-- 中央の球体 -->
+  <circle cx="173" cy="81" r="13.5" fill="#4a90e2"/>
+  
+  <!-- シャーレの上部の縁（楕円） -->
+  <ellipse cx="150" cy="72" rx="108" ry="54" 
+    fill="none" stroke="#999" stroke-width="2"/>
+  <!-- テキスト -->
+  <text x="150" y="163" text-anchor="middle" font-family="Arial" font-size="14" fill="#000000">framework</text>
+</svg>
