@@ -5,14 +5,6 @@
   <!-- 左側の赤い四角形 -->
   <rect x="2" y="68" width="26" height="26" fill="#ff6666"/>
   
-  <!-- シャーレの底面（楕円） -->
-  <ellipse cx="150" cy="90" rx="108" ry="54" 
-    fill="#f0f0f0" stroke="#999" stroke-width="2"/>
-  
-  <!-- シャーレの側面 -->
-  <path d="M42 90 A108 54 0 0 1 258 90 L258 72 A108 54 0 0 0 42 72 Z" 
-    fill="#e0e0e0" stroke="#999" stroke-width="2"/>
-  
   <!-- 中央の球体 -->
   <circle cx="173" cy="81" r="13.5" fill="#4a90e2"/>
   
@@ -27,22 +19,20 @@
   <!-- 矢印1: 斜め左上方向 -->
   <line x1="160" y1="71" x2="120" y2="45" 
     stroke="#4a90e2" stroke-width="2.5" 
+    stroke-dasharray="4,4"
     marker-end="url(#arrowhead)"/>
   
   <!-- 矢印2: 右方向 -->
   <line x1="190" y1="81" x2="240" y2="81" 
-    stroke="#4a90e2" stroke-width="2.5" 
+    stroke="#4a90e2" stroke-width="2.5"
+    stroke-dasharray="4,4"
     marker-end="url(#arrowhead)"/>
   
   <!-- 矢印3: 斜め左下方向 -->
   <line x1="160" y1="91" x2="120" y2="117" 
-    stroke="#4a90e2" stroke-width="2.5" 
+    stroke="#4a90e2" stroke-width="2.5"
+    stroke-dasharray="4,4"
     marker-end="url(#arrowhead)"/>
-
-  <!-- シャーレの上部の縁（楕円） -->
-  <ellipse cx="150" cy="72" rx="108" ry="54" 
-    fill="none" stroke="#999" stroke-width="2"/>
-  
   <!-- テキスト -->
-  <text x="150" y="163" text-anchor="middle" font-family="Arial" font-size="14" fill="#000000">then set a frame/framework</text>
+  <text x="150" y="163" text-anchor="middle" font-family="Arial" font-size="14" fill="#000000">processing ... (unstable)</text>
 </svg>

@@ -5,41 +5,23 @@
 | It is important to develop ... | Purpose |
 | ---- | ---- |
 | a special atmosphere | to hold the whole process |
-| framework within which to work | to process the secondary one inf safe| 
+| framework within which to work | to process the secondary one in safe| 
 
 ![atmosphere](img/atmospheres.svg)  
 
+![initial](img/initial.svg)  
+
+![processed](img/processed.svg)  
+
 ![framework](img/framework.svg)  
 
-> ### [memo] frame, framework in normal contexts?
-> 
-> | Term | Nuance | Definition, Meaning |
-> | ---- | ------ | ------------------ |
-> | frame | Physical, object-oriented | A rigid structure that surrounds something such as a picture, door, or windowpane. border, skeleton, structure, ... |
-> | framework | Policy/methodology-oriented | Systematic operational policy for stable operations. groundwork, plan, scheme, structure, ... |
+![egg](img/egg1-base.jpg)  
 
-## 1. Atmosphere
+![cracked egg](img/egg2-cracked.jpg)  
 
-It is important to develop a special atmosphere  
-to hold the whole process
+![egg on plate](img/egg3-on-plate.jpg)  
 
-### Usage examples
-
-- To free the client from GHOST.
-- To create an atmosphere that the client feels safe and the therapist supportive.
-	- The client feels punitive towards himself and sees even the therapist as potentially threatening.
-- To free the client from altered state of consciousness.
-- To create an atmosphere that allows the client to have some distance from the experiences.
-	- If a client is in panic (altered states of consciousness) and hard to concentrate.
-
-> Note: Subtle things may be crucial, even you never done consciously or remember it, though.
-
-## 2. Framework
-
-It is important to develop framework within which to work  
-to safely process to the secondary one.
-
->### [memo] Auxiliary line
+>### Memo: Auxiliary line
 >
 >#### Why framing the secondary process is necessary?
 >
@@ -48,6 +30,45 @@ to safely process to the secondary one.
 >- Even the therapist would be entangled in the conflict within the client - as described later
 >
 >So, how the client processes the work in such distressed situation?
+>
+> #### frame, framework in normal contexts?
+> 
+> | Term | Nuance | Definition, Meaning |
+> | ---- | ------ | ------------------ |
+> | frame | Physical, object-oriented | A rigid structure that surrounds something such as a picture, door, or windowpane. border, skeleton, structure, ... |
+> | framework | Policy/methodology-oriented | Systematic operational policy for stable operations. groundwork, plan, scheme, structure, ... |
+
+***
+
+## 1. Atmosphere
+
+It is important to develop a special atmosphere  
+to hold the whole process
+
+### Examples of Purpose
+
+- To free the client from GHOST.
+	- Clients may become possessed by the voices of someone else.
+- To create an atmosphere that the client feels safe and the therapist supportive.
+	- The client feels punitive towards himself and sees even the therapist as potentially threatening.
+- To free the client from altered state of consciousness.
+- To create an atmosphere that allows the client to have some distance from the experiences.
+	- If a client is in panic (altered states of consciousness) and hard to concentrate.
+
+### Points
+
+Maintain perspective.
+
+- Metaskills
+- Sometimes stepping backward
+- Sometimes having time and space
+
+> Note: Subtle things may be crucial, even you never done consciously or remember it, though.
+
+## 2. Framework
+
+It is important to develop framework within which to work  
+to safely process to the secondary one.
 
 ### Frame and Framework as described in this chapter:
 
@@ -58,9 +79,9 @@ to safely process to the secondary one.
 
 Frame's functions:
 
-- hold onto what has occurred
-- make a space for what has occurred
-- appreciate what has occurred
+1. hold onto what has occurred
+2. make a space for what has occurred
+3. appreciate what has occurred
 
 so that ... :
 
@@ -73,9 +94,12 @@ Frameworks could be created spontaneously, depending on the therapist's style an
 
 #### Clues to creating one:
 
-- Talk to primary process about secondary
-- Dream maps
-- Ghost stories
+- Talk to primary process about secondary:
+	- Now that occurs, so how you feel?
+- Ghost stories:
+	- What rore each of us in? Then step out from the role.
+- Dream maps:
+	- Check overall pattern of a dream.
 
 #### Ideas:
 
@@ -103,5 +127,5 @@ Frameworks could be created spontaneously, depending on the therapist's style an
 	- Developing framework within which the therapy safely processes.
 2. Client's consciousness
 	- Client him/herself can handle the situation.
-3. Meta communications
+3. Metaskills/Meta communications
 	- Create framework flexibly with the flow of the process.

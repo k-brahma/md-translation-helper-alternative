@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-20 0 320 170">
+  <!-- 暖かい雰囲気を表現する背景 -->
+  <rect x="-20" width="320" height="170" fill="#ffcca5" opacity="0.4"/>
+  
+  <!-- 矢印の定義 -->
+  <defs>
+    <marker id="greyArrow" markerWidth="7" markerHeight="5" 
+    refX="6" refY="2.5" orient="auto">
+      <polygon points="0 0, 7 2.5, 0 5" fill="#666666"/>
+    </marker>
+  </defs>
+
+  <!-- 左側の赤い四角形 -->
+  <rect x="2" y="68" width="26" height="26" fill="#ff6666"/>
+  
+  <!-- 中央の赤い四角形 -->
+  <rect x="165" y="68" width="26" height="26" fill="#ff6666"/>
+  
+  <!-- Therapist用の矢印とテキスト -->
+  <line x1="47" y1="35" x2="27" y2="58" 
+    stroke="#666666" stroke-width="2" 
+    marker-end="url(#greyArrow)"/>
+  <text x="45" y="30" font-family="Arial" font-size="12" fill="#666666">Therapist</text>
+  
+  <!-- Client用の矢印とテキスト -->
+  <line x1="210" y1="35" x2="190" y2="58" 
+    stroke="#666666" stroke-width="2" 
+    marker-end="url(#greyArrow)"/>
+  <text x="208" y="30" font-family="Arial" font-size="12" fill="#666666">Client</text>
+  
+  <!-- テキスト -->
+  <text x="150" y="163" text-anchor="middle" font-family="Arial" font-size="14" fill="#000000">primary process</text>
+</svg>
