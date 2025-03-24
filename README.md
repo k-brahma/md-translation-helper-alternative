@@ -67,3 +67,12 @@ python main.py
 
 - Python 3.x
 - 標準ライブラリのみを使用（追加のパッケージは不要）
+- PyPDF2 (PDFファイル処理が必要な場合)
+
+### PyPDF2のインストール
+
+```bash
+pip install PyPDF2
+```
+
+PyPDF2は、PDF処理が必要な場合にのみインストールしてください。
